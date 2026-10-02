@@ -7,3 +7,6 @@ venv/
 .vscode/
 *.egg-info/
 .pytest_cache/
+Tar1-ad26.pdf
+logo-tec.png
+*.zip
